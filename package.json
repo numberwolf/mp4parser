@@ -1,0 +1,14 @@
+{
+  "name": "mp4parser",
+  "version": "1.0.0",
+  "description": "MP4 parsing sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mp4box": "^0.3.20"
+  }
+}
